@@ -1,3 +1,8 @@
+---
+title: DarrenBrewster.com
+layout: page
+---
+
 # DarrenBrewster.com
 This is the stuff I am interested in.
 
