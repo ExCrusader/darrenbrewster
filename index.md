@@ -1,3 +1,7 @@
+---
+title: DarrenBrewster.com
+---
+
 # DarrenBrewster.com
 This is the stuff I am interested in.
 
